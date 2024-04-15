@@ -17,8 +17,13 @@
 
 [![An image of @0ankit0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0ankit0)](https://holopin.io/@0ankit0)
 
+<h3>Github Stats:</h3>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0ankit0&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&langs_count=5&theme=tokyonight)]()
+
+<h3>Streak Info:</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=0ankit0&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
