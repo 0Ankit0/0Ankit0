@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Poudyal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+Web+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **React js**
 
@@ -24,4 +25,5 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&langs_count=5&theme=tokyonight)]()
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=0ankit0&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
