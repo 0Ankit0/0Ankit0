@@ -1,29 +1,55 @@
-<h1 align="center">Hi 👋, I'm Ankit Poudyal</h1>
-
+<h1 align="center">Hello World! 👋 I'm Ankit Poudyal</h1>
+<h5 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+Web+Developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **React js**
+I'm a passionate web developer with a love for creating dynamic and user-friendly web applications. I'm always eager to learn new technologies and improve my skills.</h5><br>
 
-- 💬 Ask me about **react**
+<h2 align="left">Some Facts About Me</h2>
 
-- 📫 How to reach me **ankitpaudel.1373@gmail.com**
+- 🔭 I’m currently working on **Service app **
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankit-poudyal-b5a431288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-poudyal-b5a431288" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22765824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22765824" height="30" width="40" /></a>
-<a href="https://discord.gg/#9213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9213" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning **c sharp**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="left">Skillset</h2>
 
-[![An image of @0ankit0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0ankit0)](https://holopin.io/@0ankit0)
+<h3 align="left">Programming Languages:</h3>
 
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/csharp.svg" width='40' height='40' title='csharp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/php.svg" width='40' height='40' title='php'/></p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0ankit0&count_private=true&theme=tokyonight&showicons=true)]()
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OAnkit0&show_icons=true&locale=en&layout=compact" />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&langs_count=5&theme=tokyonight)]()
+<h3 align="left">Frontend Development:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=0ankit0&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width='40' height='40' title='bootstrap'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
 
+<h3 align="left">Backend Development:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width='40' height='40' title='nginx'/></p>
+
+<h3 align="left">Mobile App Development:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/flutter.svg" width='40' height='40' title='flutter'/></p>
+
+<h3 align="left">Database Management:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/></p>
+
+<h3 align="left">Frameworks:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/dotnet.svg" width='40' height='40' title='dotnet'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/electron.svg" width='40' height='40' title='electron'/></p>
+
+<h3 align="left">Testing:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Testing/selenium.svg" width='40' height='40' title='selenium'/></p>
+
+<h3 align="left">Others:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
+
+<br><hr><br>
+
+<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=OAnkit0" />
+
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=OAnkit0&show_icons=true&locale=en" />
+
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=OAnkit0&" />
