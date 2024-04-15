@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Poudyal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=535&lines=I+am+a+Web+Developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **React js**
 
