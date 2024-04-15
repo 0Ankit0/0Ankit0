@@ -20,8 +20,9 @@
 [![An image of @0ankit0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0ankit0)](https://holopin.io/@0ankit0)
 
 
-2
+<h3 align="left">Stats:</h3>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=0ankit0&count_private=true&theme=tokyonight&showicons=true)]()
+<h3 align="left">Languages Used:</h3>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&langs_count=5&theme=tokyonight)]()
 
 
