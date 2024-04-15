@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Ankit Poudyal</h1>
-<h5 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+Web+Developer)](https://git.io/typing-svg)
+<h5 align="center">
 
 I'm a passionate web developer with a love for creating dynamic and user-friendly web applications. I'm always eager to learn new technologies and improve my skills.</h5><br>
 
@@ -48,8 +48,8 @@ I'm a passionate web developer with a love for creating dynamic and user-friendl
 
 <br><hr><br>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=OAnkit0" />
+<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Oankit0" />
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=OAnkit0&show_icons=true&locale=en" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Oankit0&show_icons=true&locale=en" />
 
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=OAnkit0&" />
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Oankit0&" />
