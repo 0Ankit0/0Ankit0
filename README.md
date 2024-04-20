@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Poudyal)](https://git.io/typing-svg)
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **asp dotnet core**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **asp dotnet core**
 
 - 📫 How to reach me **ankitpaudel.1373@gmail.com**
 
