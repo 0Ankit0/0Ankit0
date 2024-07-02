@@ -27,4 +27,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0ankit0&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0Ankit0)](https://git.io/streak-stats)
