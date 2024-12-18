@@ -71,16 +71,35 @@
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=0ankit0&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&langs_count=5&theme=tokyonight" alt="GitHub Language Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=0ankit0&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&langs_count=5&theme=tokyonight" alt="GitHub Language Stats" />
 </p>
 
 ---
 
 ### Streak Info:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0ankit0&theme=onedark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=0ankit0&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### Top Projects:
+<p align="center">
+  <a href="https://github.com/0ankit0/Project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-blue?style=flat&logo=github" alt="Project1" />
+  </a>
+  <a href="https://github.com/0ankit0/Project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-green?style=flat&logo=github" alt="Project2" />
+  </a>
+  <a href="https://github.com/0ankit0/Project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-orange?style=flat&logo=github" alt="Project3" />
+  </a>
+</p>
+
+---
+
+### Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0ankit0&color=blue&style=flat" alt="Profile Views" />
 </p>
