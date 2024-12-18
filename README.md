@@ -70,11 +70,7 @@
 ---
 
 ### GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=0ankit0&count_private=true&theme=tokyonight&showicons=true&hide_title=true&hide=prs" width="400" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&langs_count=5&theme=tokyonight&hide_title=true&hide=prs" width="400" height="200" alt="GitHub Language Stats" />
-</p>
-
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ankit0)](https://github.com/0ankit0/github-readme-stats)
 ---
 
 ### Streak Info:
