@@ -75,10 +75,10 @@
 ---
 
 ### Streak Info:
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ankit0)]
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ankit0)
 
 
 ---
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=0ankit0)]
+![trophy](https://github-profile-trophy.vercel.app/?username=0ankit0)
 
