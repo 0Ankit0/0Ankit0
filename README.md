@@ -76,7 +76,7 @@
 
 ### Streak Info:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0ankit0&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=0ankit0)](https://git.io/streak-stats)
 </p>
 
 ---
