@@ -76,7 +76,7 @@
 
 ### Streak Info:
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=0ankit0)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ankit0)
 </p>
 
 ---
