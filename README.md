@@ -75,9 +75,8 @@
 ---
 
 ### Streak Info:
-<p align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ankit0)]
-</p>
+
 
 ---
 ### Trophies
