@@ -75,9 +75,10 @@
 </p>
 
 ### Streak Info:
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ankit0)
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0ankit0" alt="GitHub Streak" />
+</div>
+
 
 ---
 ### Trophies
