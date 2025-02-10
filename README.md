@@ -73,11 +73,11 @@
 <p align="center">
 <a href="https://github.com/0ankit0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0ankit0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankit's github stats" /></a> <a href="https://github.com/0ankit0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ankit0&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p>
----
 
 ### Streak Info:
+<p align="center">
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0ankit0)
-
+</p>
 
 ---
 ### Trophies
